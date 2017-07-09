@@ -27,3 +27,8 @@ Pressure (altimeter): 30.15 in. Hg (1021 hPa)
 ob: SBBH 192300Z 05001KT CAVOK 16/12 Q1021
 cycle: 23
 "
+
+
+
+# Outras opções/Sugestões:
+- http://servicos.cptec.inpe.br/XML/#req-estacoes-meteorologicas
