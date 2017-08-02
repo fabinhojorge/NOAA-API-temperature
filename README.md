@@ -34,10 +34,10 @@ cycle: 23
 - http://servicos.cptec.inpe.br/XML/#req-estacoes-meteorologicas
 
 - Por Sugestão do [s4p0](https://github.com/s4p0):
-[Wiki METAR](https://en.wikipedia.org/wiki/METAR)
-[Aiport Codes](https://en.wikipedia.org/wiki/International_Civil_Aviation_Organization_airport_code) - Brasil tem mais de um prefixo para os aeroportos
-[Aiports from Brazil](https://en.wikipedia.org/wiki/International_Civil_Aviation_Organization_airport_code)
-[Aviation Weather Center AWC](http://www.aviationweather.gov/metar/board?ids=SBSJ)
+--[Wiki METAR](https://en.wikipedia.org/wiki/METAR)
+--[Aiport Codes](https://en.wikipedia.org/wiki/International_Civil_Aviation_Organization_airport_code) - Brasil tem mais de um prefixo para os aeroportos
+--[Aiports from Brazil](https://en.wikipedia.org/wiki/International_Civil_Aviation_Organization_airport_code)
+--[Aviation Weather Center AWC](http://www.aviationweather.gov/metar/board?ids=SBSJ)
 
 
 Abraço!
